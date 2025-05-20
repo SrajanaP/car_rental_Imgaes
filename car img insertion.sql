@@ -1,0 +1,41 @@
+truncate cardetails;
+
+
+insert into cardetails(carmodel,price,fueltype,descriptions,carimg,location1,myear)
+values('Mahindra SUV',1200,'petrol','4 seats car and Non AC','Mahinadra SUV.webp','Bangalore','2011'),
+('Mahindra SUV',1900,'petrol','4 seats car with AC','Mahinadra SUV.webp','Bangalore','2012'),
+('Mahindra e2o',900,'Electric','4 seats car','mahindra e2o elect2.jpg','Mangalore','2018'),
+('mahindra e2o',950,'Electric','4 seats car','mahindra e2o electric.png','Darawad','2016'),
+('Mahindra XUV',1200,'petrol','6 seats car with AC','Mahindra XUV.webp','Bangalore','2017'),
+('Maruti Dzire',1600,'petrol','4 seats car','Maruti Dzire.webp','Bangalore','2017'),
+('Maruti e Vitara',2200,'petrol','4 seats car with AC','Maruti e Vitara electric2.avif','Bangalore','2012'),
+('Maruti Fronx',1500,'petrol','4 seats car','Maruti Fronx.avif','Mangalore','2019'),
+('Maruti Grand Vitara',1200,'petrol','4 seats car','Maruti Grand Vitara.avif','Mangalore','2020'),
+('Maruti Suzuki Celerio',1200,'petrol','4 seats car','Maruti Suzuki Celerio.jpg','Bangalore','2012'),
+('Maruti Suzuki Ertiga',1200,'petrol','4 seats car','Maruti Suzuki Ertiga.avif','Mangalore','2021'),
+('Maruti Suzuki',2500,'petrol','6 seats car with AC','Maruti Suzuki.webp','Bangalore','2012'),
+('Maruti Suzuku XL6',1800,'petrol','4 seats car','Maruti Suzuku XL6.webp','Bangalore','2012'),
+('Maruti WagonR',1200,'petrol','4 seats car','Maruti WagonR.jpg','Mangalore','2019'),
+('Toyota Camry',1200,'petrol','4 seats car','Toyota Camry.avif','Hubballi','2017'),
+('Toyota',1200,'Diesel','4 seats car','Toyota Desiel1.webp','Mangalore','2012'),
+('Toyota Glanza',1200,'petrol','4 seats car','Toyota Glanza.avif','Mangalore','2018'),
+('Toyota Hyryder',1200,'petrol','6 seats car with AC','Toyota Hyryder.jpeg','Hubballi','2022'),
+('Toyota Hyryder',1200,'petrol','4 seats car with AC','Toyota Hyryder.jpg','Bangalore','2019'),
+('Mahindra SUV',1200,'Diesel','6 seats car','Mahinadra SUV.webp','Mangalore','2018'),
+('Maruti Suzuku XL6',2000,'Diesel','6 seats car','Maruti Suzuku XL6.webp','Bangalore','2012'),
+('Maruti WagonR',1200,'petrol','4 seats car','Maruti WagonR.jpg','Mangalore','2019'),
+('Toyota Camry',1700,'Diesel','4 seats car with AC','Maruti Grand Vitara.avif','Mangalore','2022'),
+('Maruti Fronx',1750,'petrol','4 seats car','Maruti Fronx.avif','Hubballi','2024'),
+('Mahindra SUV',1200,'Diesel','6 seats car','Mahinadra SUV.webp','Mangalore','2018'),
+('Maruti Suzuku XL6',2000,'Diesel','6 seats car','Maruti Suzuku XL6.webp','Bangalore','2012'),
+('Toyota Innova Crysta',1800,'petrol','4 seats car with AC','Toyota Innova Crysta.jpg','Mangalore','2021'),
+('Toyota Camry',1700,'Diesel','4 seats car with AC','Maruti Grand Vitara.avif','Mangalore','2022'),
+('Toyota Taisor',2450,'petrol','4 seats car','Toyota Taisor.avif','Hubballi','2020'),
+('Toyota Taisor2',2700,'petrol','4 seats car with AC','Toyota Taisor2.avif','Mangalore','2020'),
+('Toyota Urban Cruiser',1400,'Diesel','4 seats car with AC','Toyota Urban Cruiser.avif','Mangalore','2022'),
+('Toyota Taisor',2450,'Electric','4 seats car','Toyota Taisor.avif','Hubballi','2020'),
+('Mahindra SUV',1200,'Diesel','6 seats car','Mahinadra SUV.webp','Mangalore','2018'),
+('Maruti Suzuku XL6',2000,'Diesel','6 seats car','Maruti Suzuku XL6.webp','Bangalore','2012'),
+('Maruti WagonR',1200,'Electric','4 seats car','Maruti WagonR.jpg','Darwad','2019');
+
+
